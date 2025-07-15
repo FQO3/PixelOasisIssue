@@ -2,7 +2,7 @@
 name: Bug反馈
 about: 创建问题以帮助我们改进
 title: "[BUG] xxx问题"
-labels: BUG错误, 新功能
+labels: BUG错误
 assignees: ''
 
 ---
